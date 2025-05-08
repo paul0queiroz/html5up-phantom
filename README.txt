@@ -1,4 +1,4 @@
-Phantom by HTML5 UP <- modifiquei aqui :)
+Phantom by HTML5 UP <- modifiquei o README
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 
